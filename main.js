@@ -149,8 +149,8 @@ const AmbientOcclusion = false;
 const SHADOWS_ENABLED = false;
 const ENV_REFLECTION_ENABLED = false;
 
-const loader = new GLTFLoader().setPath("/assets/3D/");
-const hdriLoader = new RGBELoader().setPath("/assets/hdri/");
+const loader = new GLTFLoader().setPath("/modeller/3D/");
+const hdriLoader = new RGBELoader().setPath("/modeller/hdri/");
 
 const REALISTIC_MODELS = {
   desk: {
