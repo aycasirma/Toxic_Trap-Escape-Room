@@ -1,6 +1,6 @@
 # Toxic Trap: Escape Room 🚪☣️
 
-**Repository:** [github.com/aycasirma/toxic-trap-escape-room](https://github.com/aycasirma/toxic-trap-escape-room)
+**Repository:** [github.com/aycasirma/Toxic_Trap-Escape-Room](https://github.com/aycasirma/Toxic_Trap-Escape-Room)
 
 A 3D WebGL-based escape room simulation game developed for the **SENG 340 - Computer Games and Simulation** Final Project.
 
@@ -25,7 +25,7 @@ This project was heavily accelerated using Generative AI workflows:
 ## 🚀 How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/aycasirma/toxic-trap-escape-room.git
+   git clone https://github.com/aycasirma/Toxic_Trap-Escape-Room.git
    ```
 2. Install dependencies:
    ```bash
