@@ -36,10 +36,6 @@ This project was heavily accelerated using Generative AI workflows:
    npm run dev
    ```
 
-## 🌐 Deploy on Vercel (clean URL)
+## 🌐 Live Demo
 
-1. Log in at [vercel.com](https://vercel.com) with **your** GitHub account (`aycasirma`).
-2. **Add New → Project** → import `Toxic_Trap-Escape-Room`.
-3. **Settings → General → Project Name** → set to `toxic-trap-escape-room`  
-   Your live URL becomes: `https://toxic-trap-escape-room.vercel.app`
-4. If an old deployment shows someone else’s name in the URL, delete that project and redeploy from your account (Vercel URLs follow the account + project name, not the code).
+**Play online:** [https://toxic-trap-escape-room.vercel.app](https://toxic-trap-escape-room.vercel.app)
