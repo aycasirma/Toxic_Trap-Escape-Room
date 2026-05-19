@@ -1,6 +1,6 @@
-# 🎨 3D Model İndirme Rehberi
+# Toxic Trap: Escape Room — 3D Model Guide
 
-Bu rehber, yangın simülasyonundaki nesneleri gerçekçi 3D modellerle değiştirmek için kullanılacak modellerin nasıl indirileceğini açıklar.
+This guide explains how to download and replace 3D models used in **Toxic Trap: Escape Room**.
 
 ---
 

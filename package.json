@@ -1,4 +1,8 @@
 {
+  "name": "toxic-trap-escape-room",
+  "description": "Toxic Trap: Escape Room — 3D WebGL escape room game (SENG 340 Final Project)",
+  "version": "1.0.0",
+  "private": true,
   "scripts": {
     "dev": "vite",
     "build": "vite build",

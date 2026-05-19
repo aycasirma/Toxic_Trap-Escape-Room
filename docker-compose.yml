@@ -1,7 +1,7 @@
 services:
-  fire-extinguisher-ar:
+  toxic-trap-escape-room:
     build: .
-    container_name: fire-extinguisher-ar
+    container_name: toxic-trap-escape-room
     ports:
       - "5173:5173"
     # Geliştirme sırasında canlı kod güncellemesi için proje klasörünü mount et

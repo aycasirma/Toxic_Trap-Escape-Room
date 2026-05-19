@@ -1,6 +1,8 @@
 # Toxic Trap: Escape Room 🚪☣️
 
-A 3D WebGL-based escape room simulation game developed for the **SENG 340 - Computer Games and Simulation** Final Project. 
+**Repository:** [github.com/aycasirma/earthquake-simulation-3D](https://github.com/aycasirma/earthquake-simulation-3D)
+
+A 3D WebGL-based escape room simulation game developed for the **SENG 340 - Computer Games and Simulation** Final Project.
 
 ## 🎮 The Gameplay Loop
 You wake up in a locked room. Your head hurts, and a deadly toxic gas begins to leak from the corner. You must act fast:

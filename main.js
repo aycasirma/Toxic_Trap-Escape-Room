@@ -83,7 +83,7 @@ function setupGameUI() {
   introDiv.id = "introScreen";
   introDiv.style.cssText = "position:absolute; top:0; left:0; width:100%; height:100%; background:rgba(10,10,10,1); z-index:2000; display:flex; flex-direction:column; justify-content:center; align-items:center; color:white; font-family:sans-serif;";
   introDiv.innerHTML = `
-    <h1 style="font-size:55px; color:#e74c3c; margin-bottom:10px; letter-spacing:5px;">TOXIC TRAP: ESCAPE ROOM</h1>
+    <h1 style="font-size:55px; color:#e74c3c; margin-bottom:10px; letter-spacing:3px;">Toxic Trap: Escape Room</h1>
     <input type="text" id="newPlayerName" placeholder="Enter Player Name..." style="padding:15px; font-size:20px; text-align:center; margin-bottom:20px; width:350px; border-radius:8px; border:2px solid #555; background:#222; color:white; outline:none;" autocomplete="off" />
     <div style="background:rgba(255,255,255,0.05); padding:25px; border-radius:10px; margin-bottom:40px; text-align:left; border:1px solid #444; width: 450px;">
       <h3 style="margin-top:0; color:#f1c40f;">HOW TO SURVIVE:</h3>
@@ -489,7 +489,7 @@ function animate() {
 window.startGameSequence = function() {
   const nameInput = document.getElementById("newPlayerName");
   if (nameInput && nameInput.value.trim() === "") {
-    alert("Please enter your name to start the survival simulation.");
+    alert("Please enter your name to start Toxic Trap: Escape Room.");
     return;
   }
   
